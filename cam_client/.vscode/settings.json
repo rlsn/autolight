@@ -1,0 +1,40 @@
+// {
+//     "python.languageServer": "Pylance",
+//     "python.analysis.autoSearchPath": true,
+//     "python.autoComplete.extraPaths": [
+//         ".micropy\\BradenM-micropy-stubs-ebac1d3\\frozen",
+//         ".micropy\\BradenM-micropy-stubs-4f5a52a\\frozen",
+//         ".micropy\\BradenM-micropy-stubs-ebac1d3\\stubs",
+//         ".micropy\\cam_client"
+//     ],
+//     "python.analysis.diagnosticSeverityOverrides": {
+//         "reportMissingModuleSource": "none"
+//     },
+//     "python.analysis.typeCheckingMode": "off",
+//     "python.autoComplete.typeshedPaths": [
+//         ".micropy\\BradenM-micropy-stubs-ebac1d3\\frozen",
+//         ".micropy\\BradenM-micropy-stubs-4f5a52a\\frozen",
+//         ".micropy\\BradenM-micropy-stubs-ebac1d3\\stubs",
+//         ".micropy\\cam_client",
+//         "typings"
+//     ],
+//     "python.analysis.typeshedPaths": [
+//         ".micropy\\BradenM-micropy-stubs-ebac1d3\\frozen",
+//         ".micropy\\BradenM-micropy-stubs-4f5a52a\\frozen",
+//         ".micropy\\BradenM-micropy-stubs-ebac1d3\\stubs",
+//         ".micropy\\cam_client",
+//         "typings"
+//     ],
+//     "python.linting.enabled": true,
+//     "python.linting.pylintEnabled": true
+// }
+
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "off",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    },
+}

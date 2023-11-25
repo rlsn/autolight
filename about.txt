@@ -1,0 +1,14 @@
+The aim of this project is to build a MARL with evolution environment that is grounded in real-time real-world application. The final delivery is a system that controls the light of my room.
+
+1. sensor hardware {
+	1. cam {
+		1. store rolling playback
+	}
+	2. switch
+}
+
+2. com framework {
+	1. transmit protocol {
+		1. sensors - cpu
+	}
+}
